@@ -16,7 +16,7 @@
 * Epoc+와 EmotivBCI를 이용한 뇌파신호 학습
 * Node-RED Interface
 
-### 실적 :clap:
+### 실적 :trophy:
 * 동서대학교 AI아이디어 경진대회 최우수상 수상
 * 동서대학교 AI해카톤대회 최우수상 수상
 * ICCT국제학술대회 Best Paper Award 수상
